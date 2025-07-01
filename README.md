@@ -2,6 +2,8 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+Live: https://netflix-app-1.onrender.com/
+
 About This Course:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
