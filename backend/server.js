@@ -7,13 +7,14 @@ import movieRoutes from "./routes/movie.route.js";
 import tvRoutes from "./routes/tv.route.js";
 import searchRoutes from "./routes/search.route.js";
 
-import { ENV_VARS } from "./config/envVars.js";
+import dotenv from "dotenv";
 import { connectDB } from "./config/db.js";
 import { protectRoute } from "./middleware/protectRoute.js";
 
+dotenv.config();
 const app = express();
 
-const PORT = ENV_VARS.PORT;
+const PORT = process.env.PORT || 5000;
 const __dirname = path.resolve();
 
 app.use(express.json()); // will allow us to parse req.body
