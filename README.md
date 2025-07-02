@@ -2,6 +2,9 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+
+To see this project live please wait a few seconds. Render sometimes makes turns the website on to sleepmode
+
 About This Course:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
