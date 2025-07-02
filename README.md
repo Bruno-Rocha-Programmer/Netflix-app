@@ -2,7 +2,6 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Live: https://netflix-app-1.onrender.com/
 
 To see this project live please wait a few seconds. Render sometimes makes turns the website on to sleepmode
 
