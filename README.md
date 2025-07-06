@@ -7,8 +7,6 @@
 https://github.com/user-attachments/assets/d110302b-efcc-49f8-96f5-a67ba837c246
 
 
-To see this project live please wait a few seconds. Render sometimes makes turns the website on to sleepmode
-
 About This Course:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
